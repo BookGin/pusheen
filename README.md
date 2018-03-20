@@ -10,9 +10,10 @@ Cat Pusheen on your screen
 
 ```sh
 curl https://raw.githubusercontent.com/BookGin/pusheen/master/pusheen >> ~/.bashrc
+source ~/.bashrc
 ```
 
-If you use `zsh`, please specify `~/.zshrc`
+If you use `zsh`, please specify `~/.zshrc` in both lines.
 
 ### Usage
 
