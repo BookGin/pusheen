@@ -13,7 +13,7 @@ curl https://raw.githubusercontent.com/BookGin/pusheen/master/pusheen >> ~/.bash
 source ~/.bashrc
 ```
 
-If you use `zsh`, please specify `~/.zshrc` in both lines.
+If you use `zsh`, please specify both lines below in `~/.zshrc`.
 
 ### Usage
 
